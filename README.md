@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mustajab Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Shehzad</h1>
 <h3 align="center">I am a Student, Software Engineer, and Developer. My interests range from BlockChain, and serverless computing to Edge Computing. I am also interested in Music and Fashion.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Backend Development, Laravel, APIs, JQuery**
 
-- 📫 How to reach me **mustajabahmed02@gmail.com**
+- 📫 How to reach me **shehzad319ramzan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
