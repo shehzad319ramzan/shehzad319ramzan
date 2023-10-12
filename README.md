@@ -29,7 +29,7 @@
       <img src="https://www.svgrepo.com/show/303654/java-logo.svg" alt="NEXT.js" width="40" height="40"/> 
       </p>
 
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MustajabAhmed&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mustajabahmed" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MustajabAhmed&show_icons=true&locale=en&theme=tokyonight" alt="Muhammadshehzad" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MustajabAhmed&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Muhammadshehzad" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MustajabAhmed&show_icons=true&locale=en&theme=tokyonight" alt="Muhammadshehzad" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MustajabAhmed&theme=tokyonight" alt="Muhammadshehzad" /></p> -->
 
