@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shehzad</h1>
-<h3 align="center">I am a Student, Software Engineer, and Developer. My interests range from BlockChain, and serverless computing to Edge Computing. I am also interested in Gaming and Fashion.</h3>
+<h3 align="center">I'm a Software Engineer and a Full Stack Laravel Developer with over 2 years of experience. I specialize in building high-performance, scalable web applications using Laravel. Passionate about designing robust systems, optimizing performance, and mentoring teams, I strive to deliver quality solutions..</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [Laravel projects](https://MustajabAhmed.github.io/)
