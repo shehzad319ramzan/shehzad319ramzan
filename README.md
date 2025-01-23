@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Laravel projects](https://MustajabAhmed.github.io/)
 
-- 🌱 I’m currently learning **Advanced Laravel, Core computing etc.**
+- 🌱 I’m currently learning **Advanced Laravel, Core computing etc,AI, Machine Learning, Gen AI.**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
